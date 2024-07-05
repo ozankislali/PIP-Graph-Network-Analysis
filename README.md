@@ -24,7 +24,7 @@ Properly cloning this repository requires having Git LFS installed.
 Files in the [`data`](data) directory are released under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 Files in [`data/string-downloads`](data/string-downloads) were downloaded directly from [STRING](https://string-db.org/).
 Other files in `data` have modifications performed by the notebooks in this repository.
-Please attribute [STRING](https://string-db.org/) and <https://github.com/related-sciences/string-protein-network> when reusing this data.
+Please attribute [STRING](https://string-db.org/) and <https://github.com/ozankislali/PIP-Graph-Network-Analysis> when reusing this data.
 
 All contents of this repository outside of the `data` directory are released under the Apache License Version 2.0, as specified in [`LICENSE.md`](LICENSE.md).
 
