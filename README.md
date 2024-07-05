@@ -1,2 +1,2 @@
 # PIP-Graph-Network-Analysis
-Protein protein etkileşimlerinin oluşturduğu graf ağları üzerinden hastalık analizleri yapan proje
+A project that performs disease analysis through graph networks formed by protein-protein interactions.
